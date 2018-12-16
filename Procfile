@@ -1,1 +1,1 @@
-worker: java -jar
+worker: java -jar out/Main.jar
