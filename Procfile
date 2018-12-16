@@ -1,1 +1,1 @@
-worker: java -jar target/classes/Main.jar
+worker: java -jar target/raccoon-facts-bot-0.jar
