@@ -1,1 +1,1 @@
-worker: java -jar out/Main.jar
+worker: java -jar target/classes/Main.jar
